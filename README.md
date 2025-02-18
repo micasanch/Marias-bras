@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=vLKAbe2hqEc&ab_channel=NecroDev
 https://www.youtube.com/watch?v=NOKTnZ_AG7o&ab_channel=NecroDev
 https://www.youtube.com/watch?v=FwXA-M1vcKk&t=41s&ab_channel=NecroDev
 
-## iNSTRUCCIONES PARA JUGAR
+## INSTRUCCIONES PARA JUGAR
 Este  juego es bastante sencillo de jugar ya que básicamente consiste en mover tu personaje con las flechas del teclado para ir avanzando y saltar los obstáculos como setas o plantas con el espacio de tu teclado. Al final de cada nivel te aparecerá una princesa la cual tienes que tocar para pasar al siguiente nivel, esta compuesto por 4 niveles por lo que al tocar la princesa del último nivel habrás ganado el juego.
 Enlace del juego: https://scratch.mit.edu/projects/1135606208
 
