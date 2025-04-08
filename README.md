@@ -29,6 +29,7 @@ En este último trimestre aparte de lo ya hecho gracias a estos videos, añadimo
 
 Este juego es bastante sencillo de jugar ya que básicamente consiste en mover tu personaje con las flechas del teclado para ir avanzando y saltar los obstáculos como setas o plantas con el espacio de tu teclado. Al final de cada nivel te aparecerá una princesa la cual tienes que tocar para pasar al siguiente nivel, esta compuesto por 4 niveles por lo que al tocar la princesa del último nivel habrás ganado el juego.
  Enlace del primer juego:  [https://scratch.mit.edu/projects/1135606208]
+
 Enlace del segundo juego(reformado):
 ## DIARIO DE DESARROLLO
 
